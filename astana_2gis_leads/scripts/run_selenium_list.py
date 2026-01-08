@@ -15,7 +15,7 @@ from astana_2gis_leads.selenium_helpers import (
 
 QUERY_URL = "https://2gis.kz/astana/search/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD?m=71.432495%2C51.156985%2F15.72"
 
-MAX_PAGES = 2
+MAX_PAGES = 3
 CITY_SLUG = "astana"
 
 # def pick_scroll_root(driver):
